@@ -1,0 +1,16 @@
+h1 {
+    color: darkblue;
+    background-color: lightblue;
+}
+p {
+    font-weight: bold
+}
+a {
+    text-decoration: none
+}
+li {
+    background-color: lightyellow;
+}
+q {
+    color: mediumblue;
+}
