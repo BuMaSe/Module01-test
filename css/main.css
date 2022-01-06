@@ -1,6 +1,10 @@
+body {
+    font-family: 'Nunito Sans', sans-serif;
+}
 h1 {
     color: darkblue;
     background-color: lightblue;
+    font-weight: 900;
 }
 p {
     font-weight: bold
